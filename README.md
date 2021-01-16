@@ -1,7 +1,7 @@
 # Wine-Quality-machine-learning
 
 DATASET:
-This datasets is related to red variants of the Portuguese "Vinho Verde" wine. 
+This dataset is related to red variants of the Portuguese "Vinho Verde" wine. 
 
 The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).
 
